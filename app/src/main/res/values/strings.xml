@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">EX</string>
+    <string name="w_e_l_c_o_m_e"><b>W E L C O M E</b></string>
+    <string name="express"><b>E X P R E S S</b></string>
+    <string name="food"><b>ORDER</b></string>
+    <string name="drinks"><b>DRINKS</b></string>
+    <string name="detergents"><b>DETERGENTS</b></string>
+    <string name="cheese"><b>CHEESE</b></string>
+    <string name="pastries"><b>pastries</b></string>
+    <string name="glass"><b>GLASS</b></string>
+    <string name="electrical_tools"><b>ELECTRICAL TOOLS</b></string>
+    <string name="fruit"><b>FRUIT</b></string>
+    <string name="mukawinat_el_pizza"><b>mukawinat el pizza :</b></string>
+    <string name="the_price_is_12000_s_p">the price is : <b><i>12000 s.p</i></b></string>
+    <string name="_963_51979669"><b>Phone : +963 51979669</b></string>
+    <string name="email_melkonja00_gmail_com"><b>Email : melkonja00@gmail.com</b></string>
+</resources>
